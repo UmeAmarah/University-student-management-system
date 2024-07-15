@@ -1,0 +1,9 @@
+﻿  703 ,723.cpp
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(118,3): warning C4150: deletion of pointer to incomplete type 'Course'; no destructor called
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(9,7): message : see declaration of 'Course'
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(1292,7): warning C4101: 'o': unreferenced local variable
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(1401,7): warning C4101: 'id': unreferenced local variable
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(1544,7): warning C4101: 'o': unreferenced local variable
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(1649,11): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\jawad ashraf\Desktop\703 ,723\703 ,723.cpp(1681,11): warning C4129: 'E': unrecognized character escape sequence
+  703 ,723.vcxproj -> C:\Users\jawad ashraf\Desktop\703 ,723\x64\Debug\703 ,723.exe

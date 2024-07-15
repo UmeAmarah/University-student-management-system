@@ -1,0 +1,16 @@
+
+1
+Computer Science
+Dr. Anny
+2
+Mechanical
+Dr. Ali
+3
+Electrical
+Dr. Usman
+4
+Bio Medical
+Dr. Hamza
+5
+Food Science
+Dr. Asharf

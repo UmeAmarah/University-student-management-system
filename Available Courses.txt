@@ -1,0 +1,49 @@
+
+1
+DLD
+2
+Ma'am Dania Batool
+
+2
+DLDLab
+1
+Ma'am Dania Batool
+
+3
+OOP
+3
+Dr. Anny
+
+4
+OOPLab
+1
+Dr. Anny
+
+5
+Caculus
+3
+Dr. Maryan Imtiaz
+
+6
+DBS
+3
+Ma'am Rimsha
+
+7
+DBSLab
+1
+Ma'am Rimsha/Ma'am Rida1
+
+1
+ASP
+3
+Dr.Ayesha
+
+2
+fds
+3
+dfg
+5
+sdfg
+2
+sdf
